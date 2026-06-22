@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "106871470520",
+    "project_id": "linguamaster-13add",
+    "storage_bucket": "linguamaster-13add.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106871470520:android:f9139ffc4fcd003163774d",
+        "android_client_info": {
+          "package_name": "com.example.lingua_master"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM6BO7LR1PmuFPB2uDBEHU8SEKIYqBT80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
